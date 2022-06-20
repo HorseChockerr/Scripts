@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo -e "\e[1m \e[5m \e[31mThe updating and upgrading is about to commence\e[0m"
+
+sudo apt upgrade -y
+sudo apt update
+
+echo -e "\e[1m \e[5m \e[31mAll systems are up to date\e[0m"
