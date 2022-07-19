@@ -1,0 +1,13 @@
+#!/bin/bash
+
+echo -e "\e[1m \e[5m Removing all files in your specified folders \e[0m"
+
+rm -rf ~/Downloads/*
+rm -rf ~/Documents/*
+rm -rf ~/Desktop/*
+rm -rf ~/Music/*
+rm -rf ~/Pictures/*
+rm -rf ~/Videos/*
+
+
+echo -e "\e[1m \e5m All files are deleted"
