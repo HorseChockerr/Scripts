@@ -6,5 +6,6 @@ sudo apt update
 sudo apt upgrade -y
 sudo apt autoremove -y
 sudo apt autoclean -y
+reboot -i
 
 echo -e "\e[1m \e[5m \e[31mAll systems are up to date\e[0m"

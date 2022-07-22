@@ -8,7 +8,6 @@ rm -rf ~/Desktop/*
 rm -rf ~/Music/*
 rm -rf ~/Pictures/*
 rm -rf ~/Videos/*
-rm -rf ~/Templates/*
 
 
 echo -e "\e[1m \e5m All files are deleted"
